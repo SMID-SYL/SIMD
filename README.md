@@ -3,9 +3,9 @@
 
 **S<sub>ynergistic</sub> I<sub>ntegration </sub> M<sub>utualistic platform based on single-cell and proteotranscriptomic data for </sub>D<sub>rug repositioning</sub>**
 ==
-{: style="text-align: right;"}
 
-<div align="right">
+
+<div align="justify">
 Single-cell RNA and multi-omic sequencing technologies have facilitated comprehensive analyses of multilevel molecular state heterogeneity across various stages of disease. To this end, we introduced a synergistic integration mutualistic platform based on single-cell and proteotranscriptomic data for drug repositioning (SIMD), a pipeline designed to repurpose breast cancer drug candidates by integrating the bidirectional advantages of protein transcriptomic molecular dynamics and tumor heterogeneity at the single-cell level. SIMD comprises two scoring methods. The anti-correlated proteotranscriptomic perturbation score (ACPS) method, utilized for systematic perturbagen repositioning scoring, and Prioritized Perturbagens method using Neoplastic Epithelial cells from scRNA-seq data as named PPNE.
 </div>
 
