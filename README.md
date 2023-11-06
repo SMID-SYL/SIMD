@@ -1,8 +1,4 @@
 # SIMD
-<center>
-![스크린샷 2023-11-06 오전 11 10 32](https://github.com/SMID-SYL/SMID/assets/149923570/2ef2842d-838d-4f36-b219-9d751cf2add6)
-</center>
-
 <p align="center">
   <img src="https://github.com/SMID-SYL/SMID/assets/149923570/2ef2842d-838d-4f36-b219-9d751cf2add6" alt="factorio thumbnail"/>
 </p> 
