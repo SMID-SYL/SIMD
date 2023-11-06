@@ -3,6 +3,10 @@
 ![스크린샷 2023-11-06 오전 11 10 32](https://github.com/SMID-SYL/SMID/assets/149923570/2ef2842d-838d-4f36-b219-9d751cf2add6)
 </center>
 
+<p align="center">
+  <img src="https://images.velog.io/images/roeniss/post/c208ff41-6002-4e24-8d10-9ce5dd2e0ac0/1.jpg" alt="factorio thumbnail"/>
+</p> 
+
 **S<sub>ynergistic</sub> I<sub>ntegration </sub> M<sub>utualistic platform based on single-cell and proteotranscriptomic data for </sub>D<sub>rug repositioning</sub>**
 ==
 
