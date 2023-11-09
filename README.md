@@ -13,7 +13,9 @@ Single-cell RNA and multi-omic sequencing technologies have facilitated comprehe
 ACPS optimally utilized proteotranscriptomic data for validating breast cancer using diverse aspects, such as chemical structure similarity and protein–protein interactions (PPI). Furthermore, numerous perturbagens ranked highest by ACPS have been ascertained in clinical trials for breast or other cancer treatments. To validate the five perturbagens prioritized by SIMD, cell viability was assessed in five breast cancer subtype cell lines, which closely resembled NE cell characteristics, revealing a substantial reduction in cell viability for the majority of perturbagens across most cell types. In breast cancer, we identified significantly overexpressed phosphorylation sites within AKT1 and PI3K gene families, which are Buparlisib target genes. Therefore, Bufalisib may exert its effects across a spectrum of breast cancer types, including triple-negative breast cancer, by modulating the molecular mechanisms within the PI3K pathway. SIMD is a promising platform for drug repurposing, utilizing scRNA-seq and proteotranscriptomic data in the pursuit of personalized medicine.
 </div>
 
+
 <img src="https://capsule-render.vercel.app/api type=waving&color=BDBDC8&height=150&section=header" />
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=data+can+downloaded+by+click+icon.)](https://git.io/typing-svg)
 
