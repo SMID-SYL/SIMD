@@ -24,7 +24,9 @@ ACPS optimally utilized proteotranscriptomic data for validating breast cancer u
 
 <mark>ACPS : The anti-correlated proteotranscriptomic perturbation score<mark/>
 
-==강조할 텍스트==
+<span style="color:blue">글자파란색</span>
+<span style="background-color: #f6f8fa">회색형광펜</span>
+출처: https://myvelop.tistory.com/136 [MYVELOP 마이벨롭:티스토리]
 
 <span style="background-color:#E6E6FA"> ACPS : The anti-correlated proteotranscriptomic perturbation score  </span>
 
