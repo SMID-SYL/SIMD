@@ -1,4 +1,6 @@
 # SIMD
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+
 <p align="center">
   <img src="https://github.com/SMID-SYL/SMID/assets/149923570/2ef2842d-838d-4f36-b219-9d751cf2add6" alt="factorio thumbnail"/>
 </p> 
