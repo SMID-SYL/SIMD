@@ -16,7 +16,7 @@ ACPS optimally utilized proteotranscriptomic data for validating breast cancer u
 
 <a href="https://drive.google.com/drive/folders/1ThXWDXPJRh9msFD1FBa5USXRvrAbeYTv?usp=drive_link"><img src="https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge"/></a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=soo7027%40gmail.com&theme=gruvbox)](https://git.io/streak-stats)
 
 ```
 [링크는 젤다의전설 주인공 이름](http://zeldahagoshipda.com)
