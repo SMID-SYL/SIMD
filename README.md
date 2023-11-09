@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Synergistic%20 Integration%20Mutualistic%20platform%20based%20on%20single-cell%20and%20proteotranscriptomic%20data%20for%20Drug%20repositioning&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Synergistic%20 Integration%20Mutualistic&fontSize=90" />
 
 
 <p align="center">
