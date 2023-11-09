@@ -15,7 +15,7 @@ ACPS optimally utilized proteotranscriptomic data for validating breast cancer u
 <a href="https://drive.google.com/drive/folders/1ThXWDXPJRh9msFD1FBa5USXRvrAbeYTv?usp=drive_link"><img src="https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge"/></a>
 
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Data%20Download&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=SMID&fontSize=90" />
 
 
 
