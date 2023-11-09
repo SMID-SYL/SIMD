@@ -1,4 +1,5 @@
 # SIMD
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SMID&fontSize=90" />
 
 
 <p align="center">
@@ -20,7 +21,6 @@ ACPS optimally utilized proteotranscriptomic data for validating breast cancer u
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SMID%20DataDownload&fontSize=90" />
 
 
 
