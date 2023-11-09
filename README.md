@@ -13,12 +13,10 @@ ACPS optimally utilized proteotranscriptomic data for validating breast cancer u
 
 ==
 
-[링크는 젤다의전설 주인공 이름](http://zeldahagoshipda.com)
-
-<a href="링크"><img src="https://img.shields.io/badge/텍스트-색상코드?style=flat-square&logo=로고이름&logoColor=로고색"/></a>
-#E95420
 
 <a href="https://drive.google.com/drive/folders/1ThXWDXPJRh9msFD1FBa5USXRvrAbeYTv?usp=drive_link"><img src="https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge"/></a>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ```
 [링크는 젤다의전설 주인공 이름](http://zeldahagoshipda.com)
