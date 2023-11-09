@@ -23,9 +23,11 @@ ACPS optimally utilized proteotranscriptomic data for validating breast cancer u
 
 
 ```
-[링크는 젤다의전설 주인공 이름](http://zeldahagoshipda.com)
+ACPS : The anti-correlated proteotranscriptomic perturbation score 
 ```
 
 
-
+```
+PPNE : Prioritized Perturbagens method using Neoplastic Epithelial cells from scRNA-seq data.
+```
 
