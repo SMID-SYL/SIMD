@@ -14,14 +14,6 @@ ACPS optimally utilized proteotranscriptomic data for validating breast cancer u
 </div>
 
 
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=data+can+downloaded+by+click+icon.)](https://git.io/typing-svg)
-
-<a href="https://drive.google.com/drive/folders/1ThXWDXPJRh9msFD1FBa5USXRvrAbeYTv?usp=drive_link"><img src="https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge"/></a>
-
 <mark>ACPS : The anti-correlated proteotranscriptomic perturbation score<mark/>
 
 <span style="color:blue">글자파란색</span>
@@ -31,6 +23,15 @@ ACPS optimally utilized proteotranscriptomic data for validating breast cancer u
 <span style="background-color:#E6E6FA"> ACPS : The anti-correlated proteotranscriptomic perturbation score  </span>
 
 <span style="background-color:#E6E6FA"> PPNE : Prioritized Perturbagens method using Neoplastic Epithelial cells from scRNA-seq data.</span>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=data+can+downloaded+by+click+icon.)](https://git.io/typing-svg)
+
+<a href="https://drive.google.com/drive/folders/1ThXWDXPJRh9msFD1FBa5USXRvrAbeYTv?usp=drive_link"><img src="https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge"/></a>
+
+
 
 ```
 
