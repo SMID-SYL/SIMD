@@ -1,0 +1,68 @@
+TCGA.Drug.name.	CID
+cyclophosphamide	2907
+carboplatin	5352133
+letrozole	3902
+arimidex	2187
+adriamycin	31703
+taxol	441276
+cytoxan	2907
+tamoxifen	2733526
+taxotere	11707110
+doxorubicin	31703
+femara	3902
+paclitaxel	36314
+epirubicin	41867
+docetaxel	148124
+fluorouracil	3385
+lupron	657180
+5-fluorouracil	3385
+nolvadex	2733526
+methotrexate	126941
+aromasin	60198
+zoledronic acid	68740
+gemzar	60749
+5-fu	3385
+ifosfamide	3690
+doxorubicine	31703
+letrozolum	3902
+leuprolide	657181
+aromatase exemestane	60198
+xeloda	60953
+neulasta	216239
+clodronate	25419
+abraxane	36314
+fulvestrant	73707501
+fulvestrant	3478439
+fulvestrant	31638
+triptorelin	25074470
+tamoxiphene	2733526
+anastrozolum	2187
+doxil	31703
+cyclophosphamidum	2907
+faslodex	104741
+clodronic acid	25419
+adriamicin	31703
+cyclophosphamid	2907
+ac	2907
+ac	31703
+gemcitabine	60750
+tc	148124
+tc	2907
+5 fluorouracil	3385
+vincristine	5978
+vincristine	5388993
+vincristine	6324671
+cisplatin	2767
+metotreksat	126941
+everolimus	6442177
+tamoxifen citrate	2733525
+tamoxifen citrate	5376
+navelbine	5311497
+lapatinib	208908
+pemetrexed	446556
+pemetrexed	60843
+paclitaxelum	36314
+vinblastine	13342
+vinblastine	5667
+vinblastine	6710780
+capecitabine	60953
